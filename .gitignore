@@ -1,0 +1,25 @@
+# Binarios compilados
+main
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de pruebas
+*.test
+
+# Directorios de dependencia
+vendor/
+
+# Archivos de entorno
+.env
+
+# Directorios de herramientas de desarrollo
+.idea/
+.vscode/
+
+# Asegúrate de que go.mod y go.sum no estén en esta lista
